@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://unblockedgames2025.com/sitemap.xml
